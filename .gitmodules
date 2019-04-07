@@ -1,0 +1,12 @@
+[submodule "CoreBot-ansible"]
+	path = CoreBot-ansible
+	url = https://github.com/guillain/CoreBot-ansible.git
+[submodule "CoreBot-demo"]
+	path = CoreBot-demo
+	url = https://github.com/guillain/CoreBot-demo.git
+[submodule "CoreBot-doc"]
+	path = CoreBot-doc
+	url = https://github.com/guillain/CoreBot-doc.git
+[submodule "CoreBot-framework"]
+	path = CoreBot-framework
+	url = https://github.com/guillain/CoreBot-framework.git
